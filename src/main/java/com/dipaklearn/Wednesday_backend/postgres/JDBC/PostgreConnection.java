@@ -6,7 +6,7 @@ import java.sql.DriverManager;
 public class PostgreConnection {
 
     private final String url = "jdbc:postgresql://localhost:5432/bank";
-    private final String username = "dipakpatil";
+    private final String username = "postgres";
     private final String password  = "";
     public Connection getConnection(){
 
