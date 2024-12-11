@@ -1,0 +1,54 @@
+
+## Core Java Concepts
+    OOP Principles (Encapsulation, Inheritance, Polymorphism, Abstraction)
+    Exception Handling
+    Collections Framework
+    Generics
+    Java 8+ Features (Streams, Lambdas, Optional, Functional Interfaces)
+
+## Backend Frameworks and Tools
+    Spring Framework (Core, Beans, AOP)
+    Spring Boot (Auto-configuration, Starters, Annotations)
+    Spring Security (Authentication, Authorization)
+    Hibernate/JPA (ORM, Entity Mapping, JPQL)
+    Microservices Architecture (Spring Cloud, API Gateway, Service Registry)
+
+## Web Technologies
+    REST APIs (Design, Implementation, Best Practices)
+    JSON and XML
+    HTTP Protocol (Methods, Status Codes, Headers)
+
+## Database Management
+    SQL (Joins, Transactions, Indexing)
+    NoSQL (MongoDB, Redis)
+    JDBC (Connections, Statements, Result Sets)
+    Database Connection Pooling (HikariCP, Apache DBCP)
+
+## Advanced Java Topics
+    Concurrency and Multithreading
+    Executor Framework and Thread Pools
+    JVM Internals (Garbage Collection, Memory Management)
+
+## DevOps and CI/CD
+    Maven and Gradle
+    Docker (Containerization of Applications)
+    Kubernetes (Orchestration)
+    CI/CD Tools (Jenkins, GitHub Actions)
+
+## Testing and Debugging
+    JUnit and Mockito
+    Integration Testing
+    SonarQube (Code Quality Analysis)
+
+## Version Control
+    Git and GitHub (Branching, Merging, Pull Requests)
+
+## Cloud Services (Optional but Beneficial)
+    AWS (EC2, S3, RDS)
+    Azure/Google Cloud
+
+## Others
+    Design Patterns (Singleton, Factory, Strategy, etc.)
+    SOLID Principles
+    Logging Frameworks (Logback, SLF4J)
+    Message Queues (RabbitMQ, Kafka)
