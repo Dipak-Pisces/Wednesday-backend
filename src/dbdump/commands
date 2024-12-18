@@ -1,0 +1,6 @@
+# command to dump the database
+pg_dump -U postgres -h localhost -d database_name -f backup_file.psql
+
+# command to restore the database
+pg_restore -U postgres -d target_database_name bank_backup.dump
+
